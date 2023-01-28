@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussrizk56/Huss-ReadMe-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hussrizk56/Huss-ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/hussrizk56/Huss-ReadMe-Generator#readme"
 }
