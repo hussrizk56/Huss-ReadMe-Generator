@@ -72,4 +72,4 @@ inquirer.prompt(questions).then((answers) => {
     function init() {
     }
     // Function call to initialize app - confirmed. 
-    init(); 
+    init();
