@@ -1,6 +1,6 @@
 # Huss-ReadMe-Generator
 
-For this weeks assignment I created a command line application to generate a easy and professional README file. I utilized Node Modules (NPM), Inquirer and package.json. 
+For this week's assignment I created a command line application to generate an easy and professional README file. I utilized Node Modules (NPM), Inquirer and package.json. 
 
 ## Actions taken:
 * Used Inquirer package to give the user with a series of questions via the command-line interface to answer to generator the readme.
