@@ -10,7 +10,12 @@ For this weeks assignment I created a command line application to generate a eas
 * The licenseLink function was used so that the license selected will display as a badge on the read me. 
 * The generate markdown function was used to display the inputted information in an organized and professional manner. 
  
+Screenshot:
+
+<img src="GENERATEDREADME.jpg" width="500px"/> 
+
+
 ## Links: 
 
 Video Link: https://drive.google.com/file/d/185o8wWQs8Xh-G0ZiY0WZZCJ0MfpKpp6b/view
-GitHub Link: 
+GitHub Link: https://github.com/hussrizk56/Huss-ReadMe-Generator
