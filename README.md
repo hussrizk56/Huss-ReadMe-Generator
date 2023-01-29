@@ -7,7 +7,7 @@ For this week's assignment I created a command line application to generate an e
 * The user was provided with "list" prompt to allow them to select a license. 
 * The "writefile" function was used to write the inputs onto the README. 
 * The "init" function was used to initilize the application. 
-* The licenseLink function was used so that the license selected will display as a badge on the read me. 
+* The licenseLink function was used so that the license selected will display as a badge on the read me (In the vidoe I did not include license but redid it with the MIT license). 
 * The generate markdown function was used to display the inputted information in an organized and professional manner. 
  
 Screenshot:
