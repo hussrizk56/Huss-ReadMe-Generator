@@ -10,7 +10,7 @@ For this week's assignment I created a command line application to generate an e
 * The licenseLink function was used so that the license selected will display as a badge on the read me (In the vidoe I did not include license but redid it with the MIT license). 
 * The generate markdown function was used to display the inputted information in an organized and professional manner. 
  
-Screenshot:
+## Screenshot:
 
 <img src="GENERATEDREADME.jpg" width="500px"/> 
 
